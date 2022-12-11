@@ -29,3 +29,5 @@ Estagiário em Prefeitura Municipal de Santa Helena.
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/LucasTheisen31)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/lucas_theisen_/)
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:lucasevandro1119@gmail.com)
+
+  <!-- [Snake animation](https://github.com/LucasTheisen31/LucasTheisen31/blob/output/github-contribution-grid-snake.svg) -->
