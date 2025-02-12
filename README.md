@@ -2,7 +2,7 @@
 
 Computer Science student in UTFPR-SH. 
 
-Estagiário em Prefeitura Municipal de Santa Helena.
+Desenvolvedor Flutter.
 
  <div>
   <a href="https://github.com/LucasTheisen31"> <!-- clicavel, ira direcionar para o meu perfil do GitHub -->
