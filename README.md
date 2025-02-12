@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Lucas Evandro Theisen 👋
 
-Computer Science student in UTFPR-SH. 
-
 Desenvolvedor Flutter.
+
+Computer Science student in UTFPR-SH. 
 
  <div>
   <a href="https://github.com/LucasTheisen31"> <!-- clicavel, ira direcionar para o meu perfil do GitHub -->
@@ -19,6 +19,7 @@ Desenvolvedor Flutter.
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lucas-MySql" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png"/>
   <img align="center" alt="Lucas-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Lucas-Parse" height="40" width="45" src="https://backendless.com/wp-content/uploads/2020/05/Parse-Logo.png">
 </div>
 
 ## Contact Me
